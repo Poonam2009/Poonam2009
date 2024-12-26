@@ -161,4 +161,4 @@
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=poonam2009&theme=radical" alt="Poonam Rawat's GitHub Contribution"/>
   </a>
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=poonam2009&theme=react-dark" alt="Poonam Rawat's GitHub Contribution" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=poonam2009&bg_color=000000&color=a9fef9&line=fe438e&point=ae81ff&area=true&hide_border=true" alt="Poonam Rawat's GitHub Contribution Graph" />
